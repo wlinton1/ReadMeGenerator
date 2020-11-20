@@ -33,7 +33,7 @@ function generateMarkdown(data) {
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  ${data.installation} is used to install dependencies.
+  ${data.installation}
   ## Usage
   ${data.usage}
   ## License
@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.contributing}
   ## Tests
-  ${data.tests} is used to run tests.
+  ${data.tests}
   ## Screenshots
   ## Questions
   Have a question? Email me directly at ${data.email}.
